@@ -19,4 +19,4 @@ The entire code is available on [Github](Uber_data.ipynb).
 
 I have created the [blog](https://mahimashenoy.github.io/) that explains the entire implementation of the project.
 
-### Reference: Assignment during Online Internship with DLithe(www.dlithe.com)
+
